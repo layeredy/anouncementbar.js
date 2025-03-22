@@ -1,0 +1,1 @@
+# announcementbar.js
